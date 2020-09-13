@@ -1,0 +1,6 @@
+https://kldavenport.com/lending-club-python/#our-data
+https://en.wikipedia.org/wiki/Credit_rating
+https://stackoverflow.com/questions/31556424/how-do-i-change-the-plot-size-of-a-regplot-in-seaborn
+https://www.codecademy.com/articles/seaborn-design-i
+https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0
+
